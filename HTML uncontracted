@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Disorder structure</title>
+</head>
+<body>
+    <p>
+        <li>Black</li>
+        <li>White</li>
+        <li>Green</li>
+        <li>Yellow</li>
+        <li>Blue</li>
+        <li>Blue</li>
+        <li>Blue</li>
+        <li>Blue</li>
+        <li>Red</li>
+    </p>
+        
+    <p>
+        <ul>part</ul>
+        <ul>Let</ul>
+        <ul>What</ul>
+        <ul>You</ul>
+        <ul>Want</ul>
+        <ul>Is</ul>
+    </p>
+
+    <section>
+        <p>
+            <ol>Beats</ol>
+            <ol>Get</ol>
+            <ol>Itself</ol>
+            <ol>Going</ol>
+            <ol>High</ol>
+
+        </p>
+
+    </section>
+
+    <article>
+        <h1>Between argentinian eyes</h1>
+        <section>
+            <h2>Otra marea</h2>
+            <article>At dawn, the foam brings a new strange. So close, everybody can see it. But...</article>
+        </section>
+
+    </article>
+    
+</body>
+</html>
